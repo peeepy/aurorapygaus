@@ -1,0 +1,6 @@
+aiohttp
+aiosqlite
+discord.py
+transformers
+pillow
+requests

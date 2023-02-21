@@ -1,0 +1,10 @@
+{
+  "prefix": "YOUR_BOT_PREFIX_HERE",
+  "token": "MTA3NzQxMDI2ODUxNjIwMDUyMQ.G-RNzc.bP0oteqGTaH3T9q8jkWtUwQxCOiM_jzCj7kZtw",
+  "permissions": "8",
+  "application_id": "1077410268516200521",
+  "sync_commands_globally": false,
+  "owners": [
+    319110433644478467
+  ]
+}
